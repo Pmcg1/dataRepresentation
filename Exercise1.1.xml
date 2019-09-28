@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<technical-catalogue type='technical'>
+		<book>
+			<ISBN>0857338285</ISBN>
+			<title>NASA Saturn V Manual 2016</title>
+			<author>David Woods</author>
+		</book>
+		<book>
+			<ISBN>1473680328</ISBN>
+			<title>How To</title>
+			<author>Randall Munroe</author>		
+		</book>
+	</technical-catalogue>
+	<cookery-catalogue type='cookery'>
+		<book>
+			<ISBN>9780091933067</ISBN>
+			<title>Delia's Happy Christmas</title>
+			<author>Delia Smith</author>		
+		</book>
+		<book>
+			<ISBN>0241371449</ISBN>
+			<title>Jamie’s Friday Night Feast Cookbook</title>
+			<author>jamie Oliver</author>		
+		</book>		
+	</cookery-catalogue>
+</library>
