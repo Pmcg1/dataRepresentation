@@ -10,8 +10,8 @@ data = response.json()
 #output to concole
 #print (data)
 
-for car in data["cars"]:
-    print (car)
+#for car in data["cars"]:
+#    print (car)
 
 filename = 'cars.json'
 if filename:
