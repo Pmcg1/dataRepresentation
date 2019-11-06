@@ -1,9 +1,9 @@
 import requests
 import json
 
-apiKey = '37134fea34fc11b5bdc5e82ad894109b3d141674'
-url = 'https://api.github.com/repos/datarepresentationstudent/aPrivateOne'
-filename = 'repo_out2.json'
+apiKey = '82c7e8fcb3b7ac5f81babb532585415527d1c5ad'
+url = 'https://api.github.com/repos/Pmcg1/data_rep_private'
+filename = 'repo_out_PMG.json'
 
 response = requests.get(url, auth=('token',apiKey))
 
