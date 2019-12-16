@@ -13,5 +13,5 @@ data = {'html': html, 'apiKey': apiKey}
 response = requests.post(url, json=data)
 print(response.status_code)
 
-newFile = open("labo6.02.01.htmlaspdf.pdf", "wb")
+newFile = open("lab06.02.01.htmlaspdf.pdf", "wb")
 newFile.write(response.content)
